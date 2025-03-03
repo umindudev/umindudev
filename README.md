@@ -10,10 +10,8 @@
 <td width="50%" align="left">
 - 📫 How to reach me **dissanayaka.umindu@gmail.com**
 </td>
-</tr>
+<td width="50%" align="center">
 <img align="center" alt="Coding" width="450" src="https://github.com/umindudissanayaka/umindudissanayaka/blob/main/Resources/12eca-machine-learning.gif">
+</td>
+</tr>
 </table>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umindudissanayaka&color=blueviolet" alt="Profile Views" />
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
