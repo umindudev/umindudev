@@ -11,6 +11,7 @@
 - 📫 How to reach me **dissanayaka.umindu@gmail.com**
 </td>
 </tr>
+<img align="center" alt="Coding" width="450" src="https://github.com/umindudissanayaka/umindudissanayaka/blob/main/Resources/12eca-machine-learning.gif">
 </table>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=umindudissanayaka&color=blueviolet" alt="Profile Views" />
