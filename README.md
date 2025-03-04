@@ -8,11 +8,11 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-- 🧑‍🎓 I’m an Undergraduate at **NSBM**
+- 🧑‍🎓 I’m an Undergraduate at <b>NSBM<b>
   <br><br>
-- 🌱 I’m currently studying **Data Science**
+- 🌱 I’m currently studying <b>Data Science<b>
   <br><br>
-- 📫 How to reach me **dissanayaka.umindu@gmail.com**
+- 📫 How to reach me <b>dissanayaka.umindu@gmail.com<b>
 </td>
 <td width="50%" align="center">
 <img align="center" alt="Coding" width="450" src="https://github.com/umindudev/umindudev/blob/main/12eca-machine-learning.gif">
@@ -26,14 +26,12 @@
 
 <h2 align="center">My Statistics</h2>
 <p align="center">
-
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umindudev&theme=dark&show_icons=true&count_private=true" />
-  <br><br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=umindudev&theme=dark&hide_border=false" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=umindudev&theme=dark&show_icons=true&count_private=true" />
+<br><br>
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=umindudev&theme=dark&hide_border=false" />
 </td>
 <td width="50%" align="center">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=umindudev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
